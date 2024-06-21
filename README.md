@@ -20,6 +20,22 @@ test_df: test annotation
 
 dataset link = <https://www.kaggle.com/datasets/jonathannield/cctv-human-pose-estimation-dataset>
 
+Results of the Keypoint-RCNN network after training:
+
+![download (27)](https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/dcc84624-316d-4de0-b2b5-9f949a5bdefb)
+
+![download (26)](https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/ada37cc7-6223-470a-b235-4142e63712f3)
+
+![download (25)](https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/dcfce5a4-34f4-4ee9-a91b-845118947db7)
+
+Results of the YOLO-v8 network after training:
+
+![download (28)](https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/228664dc-00cd-4595-9f97-66fa742914d3)
+
+![download (29)](https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/bf45630e-56ac-46b5-8ee5-578b33dc7d3a)
+
+YOLO-v8 on video:
+
 
 
 
