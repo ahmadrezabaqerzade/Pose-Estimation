@@ -1,5 +1,5 @@
 # Pose-Estimation
-pose estimation with Keypoint-RCNN and YOLOv8
+pose estimation with Keypoint-RCNN and YOLOv8 on CCTV dataset
 
 In this project, I intend to perform pose estimation using the keypoint-RCNN and YOLOv8 networks on a CCTV dataset. I will showcase the results of these two networks. The keypoint-RCNN network is a two-stage model for pose estimation and object detection, and it is based on keypoints. The architecture of this network is as follows:
 
