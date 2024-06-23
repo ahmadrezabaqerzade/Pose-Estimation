@@ -36,8 +36,12 @@ Results of the YOLO-v8 network after training:
 
 YOLO-v8 on video:
 
+https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/d0137e0e-a9ec-4926-91a4-1b3787248248
+
+
+https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/0531080d-f85b-429a-abde-01a22b097399
 
 
 
-https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/c0439fbc-b7b3-4983-8ac7-d79a02bef881
+
 
