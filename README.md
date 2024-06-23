@@ -39,7 +39,17 @@ YOLO-v8 on video:
 https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/d0137e0e-a9ec-4926-91a4-1b3787248248
 
 
-https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/0531080d-f85b-429a-abde-01a22b097399
+
+
+https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/f28166cd-3932-4b8b-8e94-af5fce78059e
+
+
+
+
+https://github.com/ahmadrezabaqerzade/Pose-Estimation/assets/94822419/e29d6643-3953-47ee-8008-3cd4eb2af48f
+
+
+
 
 
 
